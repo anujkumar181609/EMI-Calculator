@@ -86,10 +86,11 @@ assets/screenshots/
 ![Calculator](assets/screenshots/emi_calculation.jpg)
 
 ### 💡 Loan Suggestion (Before Calculation)
-![Suggestion Before](assets/screenshots/suggestion_before.jpg)
+![Suggestion Before Calculation](assets/screenshots/suggestion_before.jpg)
 
 ### 💰 Loan Suggestion (After Calculation)
-![Suggestion After](assets/screenshots/suggestion_after.jpg)
+![Suggestion After Calculation](assets/screenshots/suggestion_after.jpg)
+
 
 ### 🧠 Tips Section
 ![Tips](assets/screenshots/tips_page.jpg)
