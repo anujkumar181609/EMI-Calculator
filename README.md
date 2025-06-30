@@ -76,8 +76,6 @@ assets/screenshots/
 
 ## 📷 Screenshots
 
-> Below are actual app screenshots showing various screens of the EMI Calculator App.
-
 ### 🚀 Splash Screen
 ![Splash](assets/screenshots/starting_screen.jpg)
 
@@ -95,6 +93,7 @@ assets/screenshots/
 
 ### 🧠 Tips Section
 ![Tips](assets/screenshots/tips_page.jpg)
+
 
 ---
 
