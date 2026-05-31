@@ -74,30 +74,8 @@ assets/screenshots/
 
 ---
 
-## 📷 Screenshots
-
-# 🚀 Splash Screen
-# 🏠 Home Page
-
-
-# 🧮 EMI Calculation
-
-
-# 💡 Loan Suggestion (Before Calculation)
-
-
-# 💰 Loan Suggestion (After Calculation)
-
-
-
-# 🧠 Tips Section
-
-
-
----
-
 ## ✨ Author
 
 **Anuj Kumar**  
-GitHub: [AnujSingh096](https://github.com/AnujSingh096)  
+GitHub: [AnujSingh096](https://github.com/anujkumar181609)  
 
