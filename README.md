@@ -76,24 +76,22 @@ assets/screenshots/
 
 ## 📷 Screenshots
 
-### 🚀 Splash Screen
-![Splash](assets/screenshots/starting_screen.jpg)
-
-### 🏠 Home Page
-![Home](assets/screenshots/home_page.jpg)
-
-### 🧮 EMI Calculation
-![Calculator](assets/screenshots/emi_calculation.jpg)
-
-### 💡 Loan Suggestion (Before Calculation)
-![Suggestion Before Calculation](assets/screenshots/suggestion_page_before_calculation.jpg)
-
-### 💰 Loan Suggestion (After Calculation)
-![Suggestion After Calculation](assets/screenshots/suggestion_page_after_calculation.jpg)
+# 🚀 Splash Screen
+# 🏠 Home Page
 
 
-### 🧠 Tips Section
-![Tips](assets/screenshots/tips_page.jpg)
+# 🧮 EMI Calculation
+
+
+# 💡 Loan Suggestion (Before Calculation)
+
+
+# 💰 Loan Suggestion (After Calculation)
+
+
+
+# 🧠 Tips Section
+
 
 
 ---
